@@ -1,4 +1,3 @@
-xid31 Xingtian Dong
 # Quiz 2
 
 Code debugging!
